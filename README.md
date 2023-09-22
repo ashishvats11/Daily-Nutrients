@@ -18,7 +18,6 @@
 ### Front-end:
 
 - React
-- React redux
 - Axios / API REST
 - Google/ Food API providers
 - JWT
